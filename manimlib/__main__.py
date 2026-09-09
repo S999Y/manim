@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+import utils.session
 from addict import Dict
 
 from manimlib import __version__
